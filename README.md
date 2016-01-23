@@ -1,4 +1,4 @@
-# SoftwareDesignPatterns
+# Software Design Patterns
 new files were added
 
 This repository lists the popular software design patterns. I have compiled the description from popular resources like Wikipedia and have written
